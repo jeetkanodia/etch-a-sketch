@@ -1,0 +1,35 @@
+body{
+    background-color:#FDFD96;
+}
+.line{
+    display: flex;
+}
+
+.baby{
+    border: 1px solid black;
+}
+#reset{
+    margin-left: 45%;
+    margin-right: 45%;
+    border: 1px solid black;
+    font-size: 50px;
+    background-color: #D4F1F4;
+}
+#container{
+    background-color: white;
+    margin: auto;
+    border: 2px solid red;
+    width: 600px;
+    height: 600px;
+}
+
+#heading , h2 , #reset{
+
+    color:#FFA500;
+    font-family: 'Delicious Handrawn';
+    text-align: center;
+}
+
+.hover{
+    background-color: black;
+}
